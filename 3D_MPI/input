@@ -1,0 +1,12 @@
+MaxStep  20000
+tStat    1000
+xmin     1
+xmax     101
+ymin     1
+ymax     101
+zmin     1
+zmax     101
+mpi_xdim 4
+mpi_ydim 3
+mpi_zdim 2
+uConv    1.0e-6
